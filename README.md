@@ -1,13 +1,11 @@
-# 5710 Final Project – TEAM 9
-
-This document outlines the steps taken to transfer project files from the GitHub Classroom repository to this personal collaborative repository for BME 5710 Spring 2025.
+# SP25 BME 5710 Final Project – TEAM 9
 
 ---
 
 ## 4/3 Set Up
-Pulled contents of Classroom repo (`final-project-Aditi-108`) into collaborated personal team repo (`5710_Final_Project`)
+Pulled contents of Classroom repo (`final-project-Aditi-108`) into personal collaborative team repo (`5710_Final_Project`)
 
-Steps:
+<u>Steps:</u>
 - Navigated to project folder (cd /Users/aditi/Desktop/5710/5710_Final_Project)
 
 - Added Classroom Repo as Remote (git remote add classroom git@github.com:BME5710-SP2025/final-project-Aditi-108.git)
@@ -16,4 +14,5 @@ Steps:
 
 - Fetched, checkout, add., commit, push (Copied data folder, report_template, trivialnet.ipynb, etc.)
 
+---
 ## 4/4 Updates
